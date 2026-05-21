@@ -1,0 +1,6 @@
+{
+  "name": "Google Review QR Code Generator",
+  "description": "Generate custom QR Codes for business storefronts. When customers scan it, they can choose a star rating to instantly write professional, natural reviews powered by Gemini AI, and submit them directly to Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
